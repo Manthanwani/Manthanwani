@@ -70,8 +70,8 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/manthan-wani
-- GitHub: github.com/Manthanwani
+- [LinkedIn](https://www.linkedin.com/in/manthan-wani)
+- [GitHub](https://github.com/Manthanwani)
 
 ---
 
